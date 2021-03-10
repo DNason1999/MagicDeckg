@@ -1,0 +1,46 @@
+1 Frontier Siege
+1 Goldenhide Ox
+1 Wooded Foothills
+1 Everdream
+1 Tunneling Geopede
+1 Goblin Bushwhacker
+1 Deeproot Waters
+1 Stensia Innkeeper
+1 Kogla, the Titan Ape
+1 Alhammarret, High Arbiter
+1 Reap and Sow
+1 Dormant Sliver
+1 Controlled Instincts
+1 Roalesk, Apex Hybrid
+1 Thrashing Brontodon
+1 River's Rebuke
+1 Overgrowth Elemental
+1 Varragoth, Bloodsky Sire
+1 Turn Aside
+1 Windbrisk Heights
+1 Mistblade Shinobi
+1 Nightsnare
+1 Ifnir Deadlands
+1 Emblem of the Warmind
+1 Sea Gate Loremaster
+1 Rune of Mortality
+1 Primeval Force
+1 Bubbling Cauldron
+1 Lust for War
+1 Nettling Curse
+1 Simic Signet
+1 Boon of the Wish-Giver
+1 Magus of the Candelabra
+1 Tithebearer Giant
+1 Ulcerate
+1 Dreadhorde Twins
+1 Halimar Tidecaller
+1 Inferno Hellion
+1 Grixis Panorama
+1 Genju of the Fens
+3 Mountain
+6 Island
+0 Plains
+5 Forest
+3 Swamp
+3 Wastes

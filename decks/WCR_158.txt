@@ -1,0 +1,46 @@
+1 Skarrgan Firebird
+1 Cliffhaven Kitesail
+1 Rubble Reading
+1 Borderland Behemoth
+1 Ornithopter
+1 Take Up Arms
+1 Urgent Exorcism
+1 Blade of the Bloodchief
+1 Heroes Remembered
+1 Hagra Mauling // Hagra Broodpit
+1 Perilous Myr
+1 Ashling the Pilgrim
+1 Grinding Station
+1 Sphinx's Decree
+1 Throwing Knife
+1 Timecrafting
+1 Worldfire
+1 Ajani Goldmane
+1 Halimar Depths
+1 Lava Spike
+1 Twilight Panther
+1 Borrowed Hostility
+1 Nomads' Assembly
+1 Dutiful Servants
+1 Barbed Shocker
+1 Rhet-Crop Spearmaster
+1 Kor Bladewhirl
+1 Search for Glory
+1 Chainbreaker
+1 Bone Saw
+1 Retreat to Valakut
+1 Sludge Crawler
+1 The Triumph of Anax
+1 Knight of the White Orchid
+1 Leaden Myr
+1 Blazing Hope
+1 Spawnsire of Ulamog
+1 Spelltithe Enforcer
+1 Grixis Panorama
+1 Temple of Epiphany
+5 Mountain
+0 Island
+7 Plains
+0 Forest
+0 Swamp
+7 Wastes

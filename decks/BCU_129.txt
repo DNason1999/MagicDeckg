@@ -1,0 +1,46 @@
+1 One with the Stars
+1 The Elderspell
+1 Blackcleave Cliffs
+1 Frostwalk Bastion
+1 Godhunter Octopus
+1 Wake Thrasher
+1 Simic Signet
+1 Wirefly Hive
+1 Cancel
+1 Reiver Demon
+1 Phyrexian Vatmother
+1 Shadow of Doubt
+1 Supreme Phantom
+1 Colfenor's Plans
+1 Grid Monitor
+1 Midnight Oil
+1 Contaminated Bond
+1 Cobalt Golem
+1 Conduit of Ruin
+1 Lunar Avenger
+1 Drake Familiar
+1 Wayfarer's Bauble
+1 Kapsho Kitefins
+1 Auntie's Hovel
+1 Golden Demise
+1 Pick the Brain
+1 Unstable Mutation
+1 Eldrazi Temple
+1 Reaver Ambush
+1 Frost Walker
+1 Corpse Traders
+1 Will of the Naga
+1 Witness of the Ages
+1 Vein Drinker
+1 Baton of Courage
+1 Desecration Demon
+1 Faerie Vandal
+1 Captivating Vampire
+1 Endbringer
+1 Curious Homunculus // Voracious Reader
+0 Mountain
+6 Island
+0 Plains
+0 Forest
+7 Swamp
+7 Wastes

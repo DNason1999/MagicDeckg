@@ -1,0 +1,46 @@
+1 Gnarlid Colony
+1 Vastwood Fortification // Vastwood Thicket
+1 Detection Tower
+1 Banshee's Blade
+1 Flash Foliage
+1 Sylvan Basilisk
+1 Pyxis of Pandemonium
+1 Mindmelter
+1 Izzet Boilerworks
+1 Ketria Triome
+1 Thallid
+1 Galvanic Juggernaut
+1 Gift of the Gargantuan
+1 Sword of the Paruns
+1 Lifespring Druid
+1 Predator's Rapport
+1 Order of the Sacred Bell
+1 Savage Hunger
+1 Hunt the Weak
+1 Geth's Grimoire
+1 Bramblefort Fink
+1 Fire-Lit Thicket
+1 Vivien, Nature's Avenger
+1 Creeping Mold
+1 Endless Sands
+1 Mirrorpool
+1 Journey of Discovery
+1 Spellwild Ouphe
+1 Regrowth
+1 Solemn Simulacrum
+1 Ayula, Queen Among Bears
+1 Haunted Plate Mail
+1 Tomb of the Spirit Dragon
+1 Trufflesnout
+1 Pulse of the Tangle
+1 Ajani's Comrade
+1 Squirrel Nest
+1 Triskelavus
+1 Garruk's Horde
+1 Grazing Gladehart
+0 Mountain
+0 Island
+0 Plains
+11 Forest
+0 Swamp
+8 Wastes

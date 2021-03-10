@@ -1,0 +1,46 @@
+1 Elvish Handservant
+1 Kheru Lich Lord
+1 Goldmeadow Dodger
+1 Shining Armor
+1 Precognitive Perception
+1 Mindeye Drake
+1 Dread Wanderer
+1 Repel Intruders
+1 Dizzy Spell
+1 Temple of Triumph
+1 Elite Archers
+1 Gristle Grinner
+1 Yavimaya Enchantress
+1 Pristine Angel
+1 Venser's Sliver
+1 Seer of the Last Tomorrow
+1 Vizkopa Guildmage
+1 Font of Return
+1 Prism Ring
+1 Labyrinth Guardian
+1 Druid of Horns
+1 Risen Reef
+1 Forsaken Monument
+1 Practiced Tactics
+1 Brink of Disaster
+1 Oran-Rief Recluse
+1 Grave Betrayal
+1 Jhessian Thief
+1 Wrap in Vigor
+1 Increasing Devotion
+1 Pirate's Cutlass
+1 Ob Nixilis, Unshackled
+1 Void Snare
+1 Screaming Shield
+1 Sporeweb Weaver
+1 Hillcomber Giant
+1 Sword of War and Peace
+1 Culling Mark
+1 Plaguecrafter
+1 Elite Guardmage
+0 Mountain
+5 Island
+5 Plains
+4 Forest
+4 Swamp
+2 Wastes

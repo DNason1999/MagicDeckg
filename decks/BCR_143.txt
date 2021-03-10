@@ -1,0 +1,46 @@
+1 Royal Assassin
+1 Shadow Slice
+1 Measure of Wickedness
+1 Blinkmoth Well
+1 Viscid Lemures
+1 Tooth of Chiss-Goria
+1 Toll of the Invasion
+1 Rankle, Master of Pranks
+1 Clockwork Condor
+1 Hinterland Logger // Timber Shredder
+1 Lazotep Behemoth
+1 Rise from the Grave
+1 Caustic Tar
+1 Grove of the Guardian
+1 Hailstorm Valkyrie
+1 Strangling Soot
+1 Boggart Loggers
+1 Wings of Hubris
+1 Horobi's Whisper
+1 Aetherworks Marvel
+1 Cathar's Shield
+1 Dark Deal
+1 Swarmyard
+1 Obsidian Battle-Axe
+1 Golden Demise
+1 Shuriken
+1 Gnawing Zombie
+1 Guardian Automaton
+1 Tendo Ice Bridge
+1 Temple of Triumph
+1 Nether Spirit
+1 Diplomacy of the Wastes
+1 Training Drone
+1 Phobian Phantasm
+1 Signpost Scarecrow
+1 Mortarpod
+1 Cursed Ronin
+1 Heroes' Podium
+1 Wingrattle Scarecrow
+1 Rampaging Monument
+0 Mountain
+0 Island
+0 Plains
+0 Forest
+10 Swamp
+10 Wastes

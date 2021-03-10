@@ -1,0 +1,46 @@
+1 Boros Locket
+1 Storm the Citadel
+1 Sorcerer's Wand
+1 Char
+1 Final-Sting Faerie
+1 Riot Devils
+1 Bonds of Mortality
+1 Brute Force
+1 Brigid, Hero of Kinsbaile
+1 Vulpikeet
+1 Bishop of Wings
+1 War-Torch Goblin
+1 Massive Raid
+1 Martyr of Bones
+1 Nighthawk Scavenger
+1 Implement of Improvement
+1 Ogre Resister
+1 Soul Feast
+1 Fist of Suns
+1 Mulch
+1 Stalking Stones
+1 Wild Evocation
+1 Mourner's Shield
+1 Lightning-Rig Crew
+1 Trigon of Rage
+1 Reap the Past
+1 Silence the Believers
+1 Mausoleum Turnkey
+1 Weldfast Engineer
+1 Dense Canopy
+1 Forced Adaptation
+1 Parallectric Feedback
+1 Furious Rise
+1 Haazda Snare Squad
+1 Icehide Troll
+1 Unnatural Endurance
+1 Dub
+1 Twinblade Paladin
+1 Hold the Gates
+1 Waking Nightmare
+6 Mountain
+0 Island
+3 Plains
+3 Forest
+4 Swamp
+4 Wastes

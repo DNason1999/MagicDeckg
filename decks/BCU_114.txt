@@ -1,0 +1,46 @@
+1 Blinkmoth Infusion
+1 Wooded Bastion
+1 Lumengrid Augur
+1 Maddening Cacophony
+1 Fume Spitter
+1 Necromancer's Assistant
+1 Tribute to Hunger
+1 Nyxborn Seaguard
+1 Flying Men
+1 Oona, Queen of the Fae
+1 Sultai Emissary
+1 Cauldron's Gift
+1 Dark Impostor
+1 Obelisk of Grixis
+1 Aberrant Researcher // Perfected Form
+1 Rakdos Trumpeter
+1 Soul Feast
+1 Strategic Planning
+1 Vivid Meadow
+1 Jagwasp Swarm
+1 Phyrexian Hulk
+1 Moment of Craving
+1 Festering Mummy
+1 Tezzeret's Simulacrum
+1 Coralhelm Chronicler
+1 Talara's Bane
+1 Spell Snip
+1 Consuming Vapors
+1 Vampire Envoy
+1 Witness the End
+1 Scroll of Griselbrand
+1 Seraph Sanctuary
+1 Beseech the Queen
+1 Bleak Coven Vampires
+1 Sulfur Falls
+1 Lifespark Spellbomb
+1 Concealed Courtyard
+1 Silumgar Monument
+1 Origin Spellbomb
+1 Nix
+0 Mountain
+5 Island
+0 Plains
+0 Forest
+8 Swamp
+7 Wastes
