@@ -1,0 +1,46 @@
+1 Sharktocrab
+1 Demon's Grasp
+1 Soul Tithe
+1 Leyline Tyrant
+1 Galvanic Arc
+1 Goblin Replica
+1 Supply Caravan
+1 Elixir of Immortality
+1 Prey's Vengeance
+1 Clockwork Condor
+1 Steelshaper's Gift
+1 Tome Raider
+1 Desert's Hold
+1 Clever Impersonator
+1 Nikya of the Old Ways
+1 Ulamog's Reclaimer
+1 Nether Traitor
+1 Eyeblight Assassin
+1 Cloudheath Drake
+1 Glacial Ray
+1 Afflict
+1 Pooling Venom
+1 Dawn Evangel
+1 Graverobber Spider
+1 Oboro Envoy
+1 Witching Well
+1 Akroan Conscriptor
+1 Bubbling Cauldron
+1 Seacoast Drake
+1 Looming Altisaur
+1 Lightning Crafter
+1 Ethereal Usher
+1 Druid of the Anima
+1 Mortal Combat
+1 Quilled Sliver
+1 Midvast Protector
+1 Ghor-Clan Rampager
+1 Bedevil
+1 Cathodion
+1 Indomitable Ancients
+4 Mountain
+4 Island
+4 Plains
+3 Forest
+3 Swamp
+3 Wastes

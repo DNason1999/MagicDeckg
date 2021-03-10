@@ -1,0 +1,46 @@
+1 Blightbeetle
+1 Thrull Parasite
+1 Lavastep Raider
+1 Whirling Dervish
+1 Force of Virtue
+1 Sarkhan Unbroken
+1 Azure Drake
+1 Bloodrite Invoker
+1 Fortified Rampart
+1 Mazemind Tome
+1 Firewake Sliver
+1 Mwonvuli Acid-Moss
+1 Eiganjo Free-Riders
+1 Pin to the Earth
+1 Bone Pit Brute
+1 Hissing Quagmire
+1 Notion Thief
+1 Call the Skybreaker
+1 Indomitable Ancients
+1 Demon's Disciple
+1 Kabuto Moth
+1 Khalni Heart Expedition
+1 Identity Thief
+1 Cultivator of Blades
+1 Stone Quarry
+1 Slaughter the Strong
+1 Apex of Power
+1 Sundering Stroke
+1 Inventors' Fair
+1 Seasoned Hallowblade
+1 Ajani's Pridemate
+1 Renowned Weaponsmith
+1 Eyeblight Assassin
+1 Exquisite Firecraft
+1 Changeling Hero
+1 Wasteland Viper
+1 Champion of Dusk
+1 Temporal Cascade
+1 Dromoka Monument
+1 Rakdos Locket
+4 Mountain
+4 Island
+4 Plains
+3 Forest
+3 Swamp
+3 Wastes
